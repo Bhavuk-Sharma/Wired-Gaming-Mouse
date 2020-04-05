@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-25T11:40:28Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Wired_Mouse"
+        },
+        "Owner": "Bhavuk Sharma <bhavuk.ym@gmail.com>",
+        "Size": {
+            "X": 92,
+            "Y": 43.175
+        }
+    }
+}
